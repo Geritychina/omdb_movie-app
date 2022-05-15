@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/omdb_movie-app/static/css/main.87a2f641.css",
+    "main.js": "/omdb_movie-app/static/js/main.86632036.js",
+    "index.html": "/omdb_movie-app/index.html",
+    "main.87a2f641.css.map": "/omdb_movie-app/static/css/main.87a2f641.css.map",
+    "main.86632036.js.map": "/omdb_movie-app/static/js/main.86632036.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87a2f641.css",
+    "static/js/main.86632036.js"
+  ]
+}
