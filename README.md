@@ -1,6 +1,6 @@
 OMDB_Movie app 🎥 
 
-📌Used: <br>
+📌Used technologies: <br>
 📌React, Redux, Router, Axios... <br>
 
 
